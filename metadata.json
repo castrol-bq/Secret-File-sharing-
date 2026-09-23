@@ -1,0 +1,6 @@
+{
+  "name": "Jailoroom - Ephemeral Secure Vault & Chat",
+  "description": "Zero-knowledge ephemeral vault for self-destructing file sharing, burn-after-reading secret messages, and volatile temporary chat rooms with zero disk logs.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
